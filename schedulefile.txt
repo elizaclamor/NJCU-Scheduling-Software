@@ -1,0 +1,11 @@
+Week Beginning : 2022-12-05 
++------------+--------------+---------------+-------------------+-----------------+-----------------+-----------------+-----------------+
+| Shift Time |    Monday    |    Tuesday    |     Wednesday     |     Thursday    |      Friday     |     Saturday    |      Sunday     |
++------------+--------------+---------------+-------------------+-----------------+-----------------+-----------------+-----------------+
+|  6am-10am  | Nico Teynie  |  Giada Zorzan |  Hannah Alvarado  | Hannah Alvarado |  Aaron Mantilla |        -        |        -        |
+|  10am-2pm  | Priyam Shah  |  Nico Teynie  | Vanshita Malhotra | Hannah Alvarado |  Aaron Mantilla |        -        |        -        |
+|  2pm-6pm   | Giada Zorzan |  Priyam Shah  |    Sara Zorzan    |   Priyam Shah   |  Michael Cross  |        -        |        -        |
+|  6pm-10pm  | Giada Zorzan | Michael Cross |    Priyam Shah    |   Priyam Shah   | Hannah Alvarado |        -        |        -        |
+|  7am-12pm  |      -       |       -       |         -         |        -        |        -        | Hannah Alvarado | Hannah Alvarado |
+|  12pm-5pm  |      -       |       -       |         -         |        -        |        -        |  Aaron Mantilla |  Aaron Mantilla |
++------------+--------------+---------------+-------------------+-----------------+-----------------+-----------------+-----------------+
